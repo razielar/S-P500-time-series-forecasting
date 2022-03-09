@@ -1,3 +1,15 @@
 # Ignore the following
 *~
 *.csv
+*.aux
+*.log
+*.bcf
+*.out
+*.xml
+*.toc
+*.lot
+*.lof
+*.svg
+*.blg
+*.dvi
+img/
